@@ -2,7 +2,7 @@
 This repository showcases personal projects I’ve worked on during moments of curiosity and creativity. From experimenting with new technologies to solving different challenges, these projects reflect my growth as a developer. Feel free to explore, contribute, and enjoy the journey of coding!
 
 
-1. Skating Guide
+**1. Skating Guide**
 
    
 This project is a simple web page designed to provide helpful information for beginner skateboarders. It includes step-by-step instructions on how to get started with skateboarding, tips and tricks to improve your skills, and helpful resources like a video to further your learning.
@@ -48,7 +48,7 @@ License
 
 This project is open-source and free to use. Feel free to contribute or make modifications for your personal use!
 
-2. Crochet Business
+**2. Crochet Business**
 
 This project is a simple e-commerce web page designed to showcase and sell hand-crafted crochet products. It includes a product gallery, contact form for customer inquiries, and a footer with copyright information.
 
@@ -97,7 +97,7 @@ Contact Form Handling: You can modify the submitForm function to send the form d
 License
 This project is open-source and free to use. You are welcome to fork it and modify it for your own needs.
 
-3. Calculator
+**3. Calculator**
 
 This project is a basic web-based calculator that allows users to perform simple arithmetic calculations. The calculator includes operations like addition, subtraction, multiplication, division, and decimal input, as well as a clear button and an equal sign for calculation.
 
